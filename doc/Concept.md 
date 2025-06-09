@@ -84,7 +84,3 @@ Developers love that it's less opinionated than Minikube, with fewer layers to c
 K3d is based on K3s, a CNCF-certified Kubernetes distro used in production (especially in edge/IoT).
 
 Many developers use K3d to prototype for later production deployment on K3s-based infrastructure.
-
-
-
-
